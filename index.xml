@@ -17,7 +17,7 @@
       <pubDate>Wed, 01 Jan 2020 15:25:25 +0000</pubDate>
       
       <guid>https://androidbyte.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>HelloWorld! Heading 3 Syntax int i; for (i = 0; i &amp;lt; 10; i++) { System.out.println(i); } My test BOLD</description>
     </item>
     
   </channel>
