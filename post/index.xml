@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AndroidByte</title>
-    <link>https://androidbyte.github.io/</link>
-    <description>Recent content on AndroidByte</description>
+    <title>Posts on AndroidByte</title>
+    <link>https://androidbyte.github.io/post/</link>
+    <description>Recent content in Posts on AndroidByte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jan 2020 07:48:19 +0000</lastBuildDate>
     
-	<atom:link href="https://androidbyte.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://androidbyte.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://androidbyte.github.io/post/hello/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere blandit enim, ac finibus metus fermentum quis. Nunc feugiat sollicitudin nibh sed mollis. Curabitur eu vulputate justo, nec commodo odio. In quis consectetur massa. In vitae odio eget lorem fermentum fringilla rhoncus non ex. Maecenas mattis, neque a pharetra facilisis, nisl orci aliquet velit, sed eleifend tortor ipsum et elit. Praesent sed ullamcorper diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://androidbyte.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 01 Jan 2020 15:25:25 +0000</pubDate>
-      
-      <guid>https://androidbyte.github.io/posts/my-first-post/</guid>
-      <description>HelloWorld! Heading 3 Syntax int i; for (i = 0; i &amp;lt; 10; i++) { System.out.println(i); } My test BOLD</description>
     </item>
     
   </channel>
