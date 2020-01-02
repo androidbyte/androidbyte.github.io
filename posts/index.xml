@@ -6,10 +6,19 @@
     <description>Recent content in Posts on AndroidByte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 15:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 07:48:19 +0000</lastBuildDate>
     
 	<atom:link href="https://androidbyte.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello</title>
+      <link>https://androidbyte.github.io/posts/hello/</link>
+      <pubDate>Thu, 02 Jan 2020 07:48:19 +0000</pubDate>
+      
+      <guid>https://androidbyte.github.io/posts/hello/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam posuere blandit enim, ac finibus metus fermentum quis. Nunc feugiat sollicitudin nibh sed mollis. Curabitur eu vulputate justo, nec commodo odio. In quis consectetur massa. In vitae odio eget lorem fermentum fringilla rhoncus non ex. Maecenas mattis, neque a pharetra facilisis, nisl orci aliquet velit, sed eleifend tortor ipsum et elit. Praesent sed ullamcorper diam. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
     
     <item>
       <title>My First Post</title>
