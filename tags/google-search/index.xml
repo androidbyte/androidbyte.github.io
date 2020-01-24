@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Search on AndroidByte</title>
+    <link>https://androidbyte.github.io/tags/google-search/</link>
+    <description>Recent content in Google Search on AndroidByte</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://androidbyte.github.io/tags/google-search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Google Search Suggest</title>
+      <link>https://androidbyte.github.io/page/google-suggest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://androidbyte.github.io/page/google-suggest/</guid>
+      <description> .loader { border: 16px solid #f3f3f3; border-top: 16px solid #3498db; border-radius: 50%; width: 80px; height: 80px; margin: 0 auto; display: none; animation: spin 2s linear infinite; } @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }  Cari Dengan Keyword Submit
+   function GetURLParameter(sParam) { var sPageURL = window.location.search.substring(1); var sURLVariables = sPageURL.split(&#39;&amp;&#39;); for (var i = 0; i </description>
+    </item>
+    
+  </channel>
+</rss>

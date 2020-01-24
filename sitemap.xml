@@ -112,11 +112,19 @@
   </url>
   
   <url>
+    <loc>https://androidbyte.github.io/tags/google-search/</loc>
+  </url>
+  
+  <url>
     <loc>https://androidbyte.github.io/page/google-suggest/</loc>
   </url>
   
   <url>
     <loc>https://androidbyte.github.io/page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://androidbyte.github.io/tags/suggest-tools/</loc>
   </url>
   
 </urlset>

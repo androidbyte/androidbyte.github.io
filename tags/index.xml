@@ -64,5 +64,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Google Search</title>
+      <link>https://androidbyte.github.io/tags/google-search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://androidbyte.github.io/tags/google-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suggest Tools</title>
+      <link>https://androidbyte.github.io/tags/suggest-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://androidbyte.github.io/tags/suggest-tools/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
