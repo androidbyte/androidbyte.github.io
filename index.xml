@@ -23,7 +23,7 @@
 &lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
 	  
   
-
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://androidbyte.github.io/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://androidbyte.github.io/img/hexagon-thumb.jpg&#39;);&#34;&gt;
@@ -172,6 +172,16 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <description>My name is Inigo Montoya. I have the following qualities:
  I rock a great mustache I&#39;m extremely loyal to my family  What else do you need?
 my history To be honest, I&#39;m having some trouble remembering right now, so why don&#39;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+    
+    <item>
+      <title>Google Search Suggest</title>
+      <link>https://androidbyte.github.io/page/google-suggest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://androidbyte.github.io/page/google-suggest/</guid>
+      <description> .loader { border: 16px solid #f3f3f3; border-top: 16px solid #3498db; border-radius: 50%; width: 80px; height: 80px; margin: 0 auto; display: none; animation: spin 2s linear infinite; } @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }  Google Suggest Cari Dengan Keyword Submit
+   function GetURLParameter(sParam) { var sPageURL = window.location.search.substring(1); var sURLVariables = sPageURL.split(&#39;&amp;&#39;); for (var i = 0; i </description>
     </item>
     
   </channel>
